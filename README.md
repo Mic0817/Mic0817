@@ -1,11 +1,11 @@
-# Hola, soy [Michael Taborda]👻
+# Hola, soy Michael Taborda👻
 
-## 🎓 Estudiante de [Ingenieria en sistemas]
+## 🎓 Estudiante de Ingenieria en sistemas
 
 ### 🌱 Actualmente estoy aprendiendo:
 - Fundamentos de programación
 - PHP/JAVA/PYTHON
-- [Arquitectura y desarrollo web, Bases de datos, Tendencias de desarrollo]
+- Arquitectura y desarrollo web, Bases de datos, Tendencias de desarrollo.
 
 ### 🚀 Mi objetivo:
 - Consolidar mis conocimientos en desarrollo web
@@ -13,7 +13,7 @@
 - Colaborar con otros estudiantes
 
 ### 📫 Cómo contactarme:
-- Email: [tmaicol816@gmail.com]
+- Email: tmaicol816@gmail.com
 
-### ⚡ Dato curioso:
-[ "Hoops8🏀"]
+"Hoops8🏀"
+"Filipenses 4:13"
