@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy [Michael Taborda]👻
 
 <!--
 **Mic0817/Mic0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎓 Estudiante de [Ingenieria en sistemas]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente estoy aprendiendo:
+- Fundamentos de programación
+- PHP/JAVA/PYTHON
+- [Arquitectura y desarrollo web, Bases de datos, Tendencias de desarrollo]
+
+### 🚀 Mi objetivo:
+- Consolidar mis conocimientos en desarrollo web
+- Participar en proyectos open source
+- Colaborar con otros estudiantes
+
+### 📫 Cómo contactarme:
+- Email: [tmaicol816@gmail.com]
+
+### ⚡ Dato curioso:
+[ "Hoops8🏀"]
